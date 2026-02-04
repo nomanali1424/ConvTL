@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="assets/GIF.gif" width="800" alt="EEG Pipeline Demo">
+</p>
+
+<p align="center">
+  <a href="assets/demo.mp4">▶️ Watch full demo video</a>
+</p>
+
+
+
 # EEG Emotion Recognition with CNN–Transformer–LSTM Models
 
 This repository demonstrates my approach to EEG-based emotion recognition using
