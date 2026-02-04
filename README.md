@@ -83,14 +83,15 @@ python main.py \
 ```
 ## Code Structure
 
-.
-├── main.py # Entry point for training and evaluation
-├── solver.py # Training, validation, and testing logic
-├── models.py # CNN–Transformer–LSTM model definitions
-├── config.py # Experiment configuration
+```
+
+├── main.py            # Entry point for training and evaluation
+├── solver.py          # Training, validation, and testing logic
+├── models.py          # CNN–Transformer–LSTM model definitions
+├── config.py          # Experiment configuration
 ├── utils/
-│ └── tools.py # Dataset loading and preprocessing utilities
+│   └── tools.py       # Dataset loading and preprocessing utilities
 ├── result/
-│ └── *.csv # Subject-wise evaluation results
+│   └── *.csv          # Subject-wise evaluation results
 
-
+```
